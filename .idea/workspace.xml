@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a705a9c-31bd-4c7d-9970-29ab1a7b3e24" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/formation/conf/ApplicationConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/formation/controller/SerieController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/formation/main/EntrerProg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/formation/model/Acteur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/formation/model/PersonAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/formation/model/Realisateur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/formation/model/Saison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/formation/model/Serie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/formation/repository/SerieDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/formation/service/SerieService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/formation/util/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/datasource.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29eHGqeJ1cVxk4boSsvX56WvIfB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Code/JAVA/workspaceIJ/projetSerie/projetSerie/src/main/resources"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Code\JAVA\workspaceIJ\projetSerie\projetSerie\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Code\JAVA\workspaceIJ\projetSerie\projetSerie\src\main\java\fr\formation\main" />
+      <recent name="C:\Code\JAVA\workspaceIJ\projetSerie\projetSerie\src\main\java\fr\formation\model" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fr.formation.main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EntrerProg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.formation.main.EntrerProg" />
+      <module name="projetSerie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.formation.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EntrerProg" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a705a9c-31bd-4c7d-9970-29ab1a7b3e24" name="Changes" comment="" />
+      <created>1653466540943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653466540943</updated>
+      <workItem from="1653466543830" duration="18952000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
